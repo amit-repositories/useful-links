@@ -6,3 +6,5 @@ https://websistent.com/how-to-use-msmtp-with-gmail-yahoo-and-php-mail/
 Add the ability to send email from WordPress and have it caught in Mailhog.  
 https://gist.github.com/stalinkay/905c30775fce438accd749a51af724c8
 
+Containerize This: PHP/Apache/MySQL  
+https://github.com/mzazon/php-apache-mysql-containerized
