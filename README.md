@@ -15,3 +15,5 @@ https://github.com/littlejuh/apache-php-mysql
 This is your jumping off point to a number of interesting offerings being provided for you by a few folks associated with the Microsoft Most Valuable Professional (MVP) program.  
 http://mvps.org/
 
+Docker for PHP: A Start-to-Finish Guide  
+https://stackify.com/docker-for-php-a-start-to-finish-guide/
